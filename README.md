@@ -1,6 +1,5 @@
 ### Hi there 👋!
 
-<img src="./src/ibrahim.png" alt="my banner" width="500">
 <!--
 **IbrahiimKhan/IbrahiimKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahiimkhan" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
 </p>
-
+<img src="./src/ibrahim.png" alt="my banner" width="500">
 #### What companies have I worked for?
 
 <p left="center">
