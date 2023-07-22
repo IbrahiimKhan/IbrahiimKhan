@@ -1,4 +1,4 @@
-<a href=""><img src="./src/ibrahim.png" alt="my banner" ></a>
+<a href="https://github.com/ibrahiimKhan/"><img src="./src/ibrahim.png" alt="my banner" ></a>
 
 ### Hi there 👋!
 
