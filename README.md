@@ -21,7 +21,12 @@
 #### What I like to disscuss about?
 
 - 💬 Ask me about `OOPS` `web APIs` `data structure` `algorithm` and `tech culture`.
+  <!--Github Stats-->
+  <p float="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahiimkhan" />
 
+</p>
 #### What my skill set looks like?
 
 - 🖥 **Front-end:**
@@ -47,20 +52,14 @@
 - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
 - 😅 I prefer **outdoor games** to **indoor** games.
 
-<!--Github Stats-->
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahiimkhan" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
-</p>
-
-#### What companies have I worked for?
+<!-- #### What companies have I worked for?
 
 <p left="center">
   <a href="https://www.medinatech.co/">
     <img src="./src/lion.svg" height=50>
     </a>
 
-</p>
+</p> -->
 
 #### What are my recent highlights?
 
