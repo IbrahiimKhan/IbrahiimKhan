@@ -6,20 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-<div style="display: flex;">
-<div>
-<img height="180em" src="./src/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="./src/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"></a>
 
-</div>
-<div>
 #### Who I am?
 
 - A Javascript Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - working as a Software Engineer at **[MedinaTech Ltd.](https://www.medinatech.co/).**
 - Daily Problem Solver at **hackerrank and leetcode**.
 - Have built **Shodai Ecommerce** as using MERN Technologies.
-</div>
-</div>
 
 #### What I'm doing?
 
