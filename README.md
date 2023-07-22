@@ -1,4 +1,4 @@
-<a href="https://github.com/sponsors/M0nica"><img src="./src/ibrahim.png" alt="my banner" ></a>
+<a href=""><img src="./src/ibrahim.png" alt="my banner" ></a>
 
 ### Hi there 👋!
 
