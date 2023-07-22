@@ -9,7 +9,7 @@
 - A Javascript Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - working as a Software Engineer at **[MedinaTech Ltd.](https://www.medinatech.co/).**
 - Daily Problem Solver at **hackerrank and leetcode**.
-- Have built **Shodai Ecommerce** as using MERN Technologies.
+- Have built **Shodai Ecommerce** with admin panel using MERN Technologies.
 
 #### What I'm doing?
 
