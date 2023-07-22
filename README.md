@@ -1,10 +1,6 @@
+<a href="https://github.com/sponsors/M0nica"><img src="./src/ibrahim.png" alt="my banner" width="500"></a>
+
 ### Hi there 👋!
-
-<!--
-**IbrahiimKhan/IbrahiimKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="./src/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"></a>
 
@@ -56,7 +52,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahiimkhan" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
 </p>
-<img src="./src/ibrahim.png" alt="my banner" width="500">
+
 #### What companies have I worked for?
 
 <p left="center">
