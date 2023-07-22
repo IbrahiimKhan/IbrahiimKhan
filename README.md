@@ -1,4 +1,3 @@
-<img height="180em" src="./src/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
 ### Hi there 👋!
 
 <!--
@@ -7,12 +6,20 @@
 Here are some ideas to get you started:
 -->
 
+<div style="display: flex; justify-content: center;">
+<div>
+<img height="180em" src="./src/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
+
+</div>
+<div>
 #### Who I am?
 
 - A Javascript Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - working as a Software Engineer at **[MedinaTech Ltd.](https://www.medinatech.co/).**
 - Daily Problem Solver at **hackerrank and leetcode**.
-- Have built **Shodai Ecommerce** as using MERN TEchnologies.
+- Have built **Shodai Ecommerce** as using MERN Technologies.
+</div>
+</div>
 
 #### What I'm doing?
 
@@ -30,7 +37,7 @@ Here are some ideas to get you started:
 - 🖥 **Front-end:**
   - **📜 Languages:** • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ TypeScript`
   - **🔬 Frameworks:**
-    - **🌐 Web:** • [reactJs](https://reactjs.org/) • [nextJs](https://nextjs.org/) •**📱** [react native](https://reactnative.dev/)
+    - **🌐 Web:** • [reactJs](https://reactjs.org/) • [nextJs](https://nextjs.org/) **📱 Mobile:** • [react native](https://reactnative.dev/)
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ Javascript` • `🧚🏻‍♂️ Python`
   - **🔭 Frameworks:** • [NodeJs](https://nodejs.org/en/) • [ExpressJs](https://nodejs.org/en/)
