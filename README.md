@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 #### Who I am?
 
-- A Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
+- A Javascript Developer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).**
 - working as a Software Engineer at **[MedinaTech Ltd.](https://www.medinatech.co/).**
 - Daily Problem Solver at **hackerrank and leetcode**.
 - Have built **Shodai Ecommerce** as using MERN TEchnologies.
