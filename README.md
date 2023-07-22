@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-<!-- <img src="./src/ibrahim.png" alt="my banner"> -->
+<img src="./src/ibrahim.png" alt="my banner" width="500">
 <!--
 **IbrahiimKhan/IbrahiimKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
