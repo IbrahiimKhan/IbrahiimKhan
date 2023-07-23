@@ -30,10 +30,10 @@
 #### What I like to disscuss about?
 
 - 💬 Ask me about `OOPS` `web APIs` `data structure` `algorithm` and `tech culture`.
-  <!--Github Stats-->
+  Github Stats
   <p float="left">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahiimkhan" /> -->
+  <img height="180em" src="./src/coder.avif" />
 
 </p>
 #### What my skill set looks like?
