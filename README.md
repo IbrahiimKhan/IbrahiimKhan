@@ -24,7 +24,7 @@
   <!--Github Stats-->
   <p float="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahiimkhan" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahiimkhan" /> -->
 
 </p>
 #### What my skill set looks like?
