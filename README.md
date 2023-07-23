@@ -33,7 +33,7 @@
   Github Stats
   <p float="left">
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
-  <img height="180em" src="./src/coder.avif" />
+  <img height="250em" src="./src/coder.avif" />
 
 </p>
 #### What my skill set looks like?
