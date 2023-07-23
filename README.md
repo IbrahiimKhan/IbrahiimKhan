@@ -26,6 +26,7 @@
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/ibrahim-khan-159669226/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Machine learning**,**Next JS**
 - 👯 Looking to collaborate on **Full Stack MERN Project**.
+  <a href=""><img align="right" width="150" height="150" src="./src/cat.gif"></a>
 
 #### What I like to disscuss about?
 
