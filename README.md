@@ -55,7 +55,7 @@
 
 #### What's interesting about me?
 
-<a href=""><img align="left" width="120" height="100" src="./src/man-shows-gesture-great-idea_10045-637.avif"></a>
+<a href=""><img align="left" width="140" height="100" src="./src/man-shows-gesture-great-idea_10045-637.avif"></a>
 
 - 😎 Having thirst about **AI** trends & **Open Source**.
 - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
