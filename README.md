@@ -55,6 +55,8 @@
 
 #### What's interesting about me?
 
+<a href=""><img align="left" width="150" height="150" src="./src/man-shows-gesture-great-idea_10045-637.avif"></a>
+
 - 😎 Having thirst about **AI** trends & **Open Source**.
 - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
 - ✍️ I write about **why a certain code is written instead of what** in the comments.
