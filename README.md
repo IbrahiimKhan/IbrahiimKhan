@@ -2,7 +2,16 @@
 
 ### Hi there 👋!
 
-<a href=""><img align="left" width="150" height="150" src="./src/coder-min.gif" &nbsp></a>
+<a href=""><img align="left" width="150" height="150" src="./src/coder-min.gif"></a>
+
+<dl>
+  <dd>
+    <dl>
+      <dd>
+      </dd>
+    </dl>
+  </dd>
+</dl>
 
 #### Who I am?
 
