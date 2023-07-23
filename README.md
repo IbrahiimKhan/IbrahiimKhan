@@ -32,8 +32,8 @@
 - 💬 Ask me about `OOPS` `web APIs` `data structure` `algorithm` and `tech culture`.
   Github Stats
   <p float="left">
+  <img height="250em" src="./src/man-pointing-with-hands_24911-64605.avif" />
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
-  <img height="250em" src="./src/coder.avif" />
 
 </p>
 #### What my skill set looks like?
