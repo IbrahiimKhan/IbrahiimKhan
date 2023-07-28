@@ -33,9 +33,9 @@
 - 💬 Ask me about `OOPS` `web APIs` `data structure` `algorithm` and `tech culture`.
   Github Stats
   <div>
-  <img align=top height="250em"width="33%"  width="150" src="./src/point.png" />
-  <img height="250em"width="33%" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
-  <img height="250em" width="33%" align=top height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahiimKhan&theme=dark&background=000000"/>
+  <img align=top height="250em"  width="150" src="./src/point.png" />
+  <img height="250em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
+  <img height="250em" align=top width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahiimKhan&theme=dark&background=000000"/>
 
 </div>
 #### What my skill set looks like?
