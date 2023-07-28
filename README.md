@@ -57,6 +57,7 @@
 
 #### What's interesting about me?
 
+ <img height="250em" align="left" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahiimKhan&theme=dark&background=000000"/>
 <a href=""><img align="left" width="130" height="130" src="./src/idea.png"></a>
 
 - 😎 Having thirst about **AI** trends & **Open Source**.
