@@ -30,7 +30,7 @@
 
 #### What I like to disscuss about?
 
-- 💬 Ask me about `OOPS` `web APIs` `data structure` `algorithm` and `tech culture`.\
+- 💬 Ask me about `OOPS` `web APIs` `data structure` `algorithm` and `tech culture`.
   Github Stats
   <div>
   <img align=top height="200em"  width="150" src="./src/point.png" />
