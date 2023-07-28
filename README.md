@@ -2,7 +2,7 @@
 
 ### Hi there 👋!
 
-<a href=""><img align="left" width="150" height="150" src="./src/coder-min.gif.gif"></a>
+<a href=""><img align="left" width="150" height="150" src="./src/coder.gif"></a>
 
 <dl>
   <dd>
@@ -26,14 +26,14 @@
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/ibrahim-khan-159669226/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **Machine learning**,**Next JS**
 - 👯 Looking to collaborate on **Full Stack MERN Project**.
-  <a href=""><img align="right" width="150" height="150" src="./src/cat.gif.gif"></a>
+  <a href=""><img align="right" width="150" height="150" src="./src/catnew.gif.gif"></a>
 
 #### What I like to disscuss about?
 
 - 💬 Ask me about `OOPS` `web APIs` `data structure` `algorithm` and `tech culture`.
   Github Stats
   <p float="left">
-  <img height="250em" width="150" src="./src/pointing.png" />
+  <img height="250em" width="150" src="./src/point.png.png" />
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
 
 </p>
