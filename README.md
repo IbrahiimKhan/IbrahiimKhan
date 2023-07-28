@@ -35,7 +35,7 @@
   <div>
   <img align=top height="250em"  width="150" src="./src/point.png" />
   <img height="250em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
-  <img height="250em" align=top width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahiimKhan&theme=dark&background=000000"/>
+  <img height="250em" align=top width="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahiimKhan&theme=dark&background=000000"/>
 
 </div>
 #### What my skill set looks like?
