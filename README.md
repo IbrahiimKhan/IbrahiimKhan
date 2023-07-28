@@ -34,7 +34,7 @@
   Github Stats
   <p float="left">
   <img height="250em"  width="150" src="./src/point.png" />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiimkhan&theme=dark&background=000000"/>
   <!-- <img height="250em" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahiimKhan&theme=dark&background=000000"/> -->
 
 </p>
